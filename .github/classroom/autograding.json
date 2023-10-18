@@ -33,7 +33,7 @@
     {
       "name": "hw3-2",
       "setup": "make hw3-2",
-      "run": "bash test.sh -p hw3-2 -n 10 -s 92e05ada089f2fa33b449c764e9bb61de65ce71f2aea1d5f0acd05f34620b799",
+      "run": "bash test.sh -p hw3-2 -n 10 -s b82135ee23d66ee574b900b6d9dfea20176b887f8f97a905bed226cea73ab097",
       "input": "",
       "output": "",
       "comparison": "exact",
