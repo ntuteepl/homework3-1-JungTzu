@@ -11,7 +11,8 @@ int main() {
         scanf("%s", guess);
 
         // 檢查是否為0以結束遊戲
-        if (guess[0] == '0') {
+          if (guess[0] == '0' && guess[1] == '\0' && guess[2] == '\0' && guess[3] == '\0' && guess[4] == '\0') {
+
             break;
         }
 
