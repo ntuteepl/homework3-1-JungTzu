@@ -46,6 +46,7 @@ int main() {
             }
         }
         printf("%dA%dB\n", A, B);   
+        
     }
     return 0;
 }
