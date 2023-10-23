@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 int main() {
 
@@ -6,8 +7,8 @@ int num1,num2;
 scanf ("%d %d",&num1,&num2);
 
 //判斷num1、num2位數
-int digit1 = (int)log10(num1)+1;
-int digit2 = (int)log10(num2)+1;
+  int digit1 = (int)log10(num1) + 1;
+  int digit2 = (int)log10(num2) + 1;
 
 int total1,total2;
 int count1 = num1 , count2 = num2;
