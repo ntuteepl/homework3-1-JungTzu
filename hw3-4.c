@@ -45,10 +45,7 @@ int main() {
                 B++;
             }
         }
-
-        printf("%dA%dB\n", A, B);
-
+        printf("%dA%dB\n", A, B);   
     }
-
     return 0;
 }
