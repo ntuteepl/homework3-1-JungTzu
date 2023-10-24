@@ -50,7 +50,9 @@ int main() {
 
         // 输出猜测结果
         printf("%dA%dB\n", A, B);
-
+      if (A == 4) {
+          break;
+      }
         
     }
 
